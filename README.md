@@ -1,5 +1,5 @@
 # Laskutussovevellus työpöytäversio
-WPF (XAML, C#), tietokantana MariaDB, HeidiSQL
+Käytetyt tekniikat: Visual Studio, WPF (XAML, C#), tietokantana MariaDB, HeidiSQL
 
 Käyttöliittymäohjelmoinnin harjoitustyö 5op kevät 2023
 
